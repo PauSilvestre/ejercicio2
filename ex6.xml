@@ -1,0 +1,28 @@
+<cómics>
+    <comic titol="Batman: Any Un">
+        <titol>Alfredo Reino</titol>
+        <autor>Stan Lee i Steve Ditko</autor>
+        <any>1963</any>
+        <editorial>Marvel Cómics</editorial>
+    </comic>
+    <comic titol="Còmic 2: Batman">
+        <titol>Batman: Any Un</titol>
+        <autor>Frank Miller i David Mazzucchelli</autor>
+        <any>1987</any>
+        <genere>Superheroi</genere>
+    </comic>
+    <comic titol="Còmic 3: X-Men">
+        <titol>X-Men #1</titol>
+        <autor>Stan Lee i Jack Kirby</autor>
+        <any>1963</any>
+        <Número_de_Págines>32</Número_de_Págines>
+    </comic>
+    <comic titol="Còmic 4: Wonder Woman">
+        <titol>Wonder Woman Vol. 1: Blood</titol>
+        <autor>Brian Azzarello i Cliff Chiang</autor>
+        <any>2012</any>
+        <Editorial>DC Comics</Editorial>
+        <Genere>Superheroi</Genere>
+        <Premis>Eisner Award 2013</Premis>
+    </comic>
+</cómics>
